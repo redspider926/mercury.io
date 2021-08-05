@@ -1,0 +1,13 @@
+export const primary = '#314053';
+export const background = '#FFFFFF';
+export const blur = '#BEC1C6';
+export const focus = '#FF69B4';
+export const button = '#1384D5';
+export const third = '#ff7f7f';
+export const forth = '#71b477';
+export const fifth = '#ffffff';
+export const gray = '#eeeeee';
+export const darkGray = '#aaaaaa';
+export const black = '#000000';
+export const white = '#ffffff';
+export const green = '#42fe53';
